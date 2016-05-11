@@ -1,0 +1,2 @@
+# spookometer
+SpookoMeter
