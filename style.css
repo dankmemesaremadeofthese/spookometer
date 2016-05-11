@@ -1,0 +1,49 @@
+body {
+    background-image: url("img/skelly.gif");
+}
+
+img {
+    width: 50%;
+}
+
+.pdance {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    width: 20%;
+}
+
+.sdance {
+    position: absolute;
+    top: 30%;
+    left: 1%;
+    width: 20%
+}
+
+.sgroup {
+    position: absolute;
+    top: 65%;
+    left: 1%;
+    width: 20%;
+}
+
+.sintense {
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    width: 20%;
+}
+
+.splay {
+    position: absolute;
+    top: 40%;
+    right: 1%;
+    width: 20%;
+}
+
+.scheese {
+    position: absolute;
+    top: 63%;
+    right: 1%;
+    width: 20%;
+}
